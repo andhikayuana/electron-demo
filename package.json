@@ -1,0 +1,11 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "electron hello world",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "yuana",
+  "license": "ISC"
+}
